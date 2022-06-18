@@ -6,5 +6,7 @@
 </div>
 
 ## +example:
-![image](https://user-images.githubusercontent.com/81589649/174447050-033ce7b1-6a43-4a45-8003-f5891242c57d.png)
+![image](https://user-images.githubusercontent.com/81589649/174448244-04293caf-41ab-441a-9d04-bc7242ccc532.png)
 
+### +install with pip;
+**pip install ipweather**

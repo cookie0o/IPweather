@@ -9,6 +9,6 @@
 ![image](https://user-images.githubusercontent.com/81589649/175363389-1b83aed4-5634-409a-b587-5cfcbdd213d1.png)
 
 ### +install with pip (ONLY LOCAL);
-cd ./(project dir)
-pip install . --upgrade
-*done*
+- cd ./(project dir)
+- pip install . --upgrade
+- *done*

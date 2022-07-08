@@ -6,7 +6,7 @@
 </div>
 
 ## +example:
-![image](https://user-images.githubusercontent.com/81589649/175363389-1b83aed4-5634-409a-b587-5cfcbdd213d1.png)
+![image](https://user-images.githubusercontent.com/81589649/178064036-0c01a149-7246-4c23-bc7c-531155359fc9.png)
 
 ## +Install:
 **manually**

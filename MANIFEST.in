@@ -1,6 +1,2 @@
-include *.py
-include *.in
-include *.toml
-include *.cfg
-include *.md
-
+include IPweather\*
+include *.*

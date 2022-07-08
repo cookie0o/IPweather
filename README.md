@@ -8,6 +8,9 @@
 ## +example:
 ![image](https://user-images.githubusercontent.com/81589649/178064036-0c01a149-7246-4c23-bc7c-531155359fc9.png)
 
+## +values:
+get_weather(ip_address(NEEDED), current_weather, location, tempC, humidity, windKMH, day_hour)
+
 ## +Install:
 **manually**
 - Download project

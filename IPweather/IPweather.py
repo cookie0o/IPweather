@@ -36,9 +36,17 @@ class weather():
             lat = lat_long.json()['lat']
             lon = lat_long.json()['lon']
             weather_raw = get(f"https://weatherdbi.herokuapp.com/data/weather/{lat},{lon}")
-
-
                 
+                
+            # check if weather api is working
+            if weather_raw.status_code == 200:
+                # get the weather data
+                weather_json = weather_raw.json()
+            else:
+                # return the error message
+                print ("WEATHER API ERROR:")
+                return weather_raw.status_code
+
             # check if ip get lat long api is working
             if lat_long.status_code == 200:
                 # get the lat long data

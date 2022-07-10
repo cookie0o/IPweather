@@ -6,7 +6,7 @@
 </div>
 
 ## +example:
-![image](https://user-images.githubusercontent.com/81589649/178064036-0c01a149-7246-4c23-bc7c-531155359fc9.png)
+![image](https://user-images.githubusercontent.com/81589649/178151416-2035e343-b60e-45e7-a684-64dcb3ca73bc.png)
 
 ## +Info and usage:
 go to the wiki on the Github Page.

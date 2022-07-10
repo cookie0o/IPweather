@@ -1,6 +1,6 @@
 <div align=center>
   
-  # IPweather v0.1.6
+  # IPweather v0.1.7
   
   **A python package to get the Ip of the user and current weather with an IP or other information**
 </div>

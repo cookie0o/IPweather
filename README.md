@@ -1,15 +1,15 @@
 <div align=center>
   
-  # IPweather v0.1.5
+  # IPweather v0.1.6
   
-  **A python package to get the Ip of the user and current weather with a IP**
+  **A python package to get the Ip of the user and current weather with an IP or other information**
 </div>
 
 ## +example:
 ![image](https://user-images.githubusercontent.com/81589649/178064036-0c01a149-7246-4c23-bc7c-531155359fc9.png)
 
 ## +Info and usage:
-go to the wiki.
+go to the wiki on the Github Page.
 
 ## +Install:
 **manually**
